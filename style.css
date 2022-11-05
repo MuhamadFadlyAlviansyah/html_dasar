@@ -251,7 +251,12 @@ figcaption span {
 }
 
 /* Learning Resources */
-.table {
+
+.content{
+    text-align: center;
+}
+
+/* .table {
     color: #eee;
     align-items: center;
     text-align: center;
@@ -266,7 +271,7 @@ table{
 
 .text-right{
     text-align: left;
-}
+} */
 
 .bottom1{
     color: #eee;
